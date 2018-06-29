@@ -1,0 +1,40 @@
+body{
+	background-color: #0000FF
+}
+.logo{
+	width: 40%;
+	text-align: center;
+	margin: -15%;
+	padding: 50%;
+	border-radius: 50%;
+	border: 20%;
+}
+.h1{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+	color: green;
+}
+.p{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+	color: yellow;
+}
+img{
+	width: 40%;
+	height: 40%;
+	border-radius: 50%;
+	text-align: center;
+	margin: 10%;
+	padding: 10%;
+}
+.p2{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+	color: yellow;
+}

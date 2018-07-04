@@ -1,0 +1,52 @@
+body{
+	background-color: white;
+	text-align: center;
+}
+.insta{
+	width: 8%;
+	border-radius: 50%;
+	margin: 10%;
+}
+.letra{
+	width: 10%;
+	border-radius: 50%;
+	margin: 10%;
+}
+.alex{
+	width: 30%;
+	border-radius: 50%;
+}
+.h1{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: right;
+}
+.pub{
+	font-family: serif;
+	font-size: 30px;
+	font-style: italic;
+	text-align: right;
+}
+.bio{
+	font-family: serif;
+	font-size: 30px;
+	font-style: italic;
+	text-align: right;
+}
+.fotos{
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+}
+img{
+	/*width: 30%;*/
+	/*height: 30%;*/
+	border-radius: 50%;
+}
+.pc{
+	width: 30%;
+	height: 30%;
+	border-radius: 50%;
+}
